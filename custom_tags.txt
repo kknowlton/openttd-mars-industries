@@ -1,0 +1,6 @@
+VERSION					:alpha 1
+UPDATEDT				:14 Jan 2013
+TITLE					:Martian Industry
+AUTHOR					:Kris Knowlton
+COPYRIGHTDT				:2013
+LICENSE					:GPL v2

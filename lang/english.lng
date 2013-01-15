@@ -1,0 +1,118 @@
+##grflangid 0x00
+##plural 0
+# English US language file
+
+# GRF info
+STR_GRF_NAME					:     {TITLE} {VERSION}
+STR_GRF_DESCRIPTION				:This newgrf modifies the toyland industries and cargos to fit better with the graphics in Toyland to Mars Conversion (T2MC). It requires T2MC be loaded first.{}Toyland to Mars {COPYRIGHT} George.{}Martian Industry conversion {COPYRIGHT}{COPYRIGHTDT} {AUTHOR}{}License - {LICENSE}
+
+##### Cargo #####
+STR_CARGO_NAME_PASS				:Colonists
+STR_CARGO_UNIT_PASS				:{COMMA} colonists
+
+STR_CARGO_NAME_DIAT				:Xeno-Diatomite
+STR_CARGO_UNIT_DIAT				:{WEIGHT} of xeno-diatomite
+STR_CID_DIAT					:{TINYFONT}xd
+
+STR_CARGO_NAME_GOOD				:Colony Supplies
+STR_CARGO_UNIT_GOOD				:{COMMA} crate{P 0 "" s} of colony supplies
+STR_CID_GOOD					:{TINYFONT}GD
+
+STR_CARGO_NAME_ALOY				:Ceramic Alloy
+STR_CARGO_UNIT_ALOY				:{WEIGHT} of ceramic alloy
+STR_CID_ALOY					:{TINYFONT}AY
+
+STR_CARGO_NAME_CHEM				:Chemicals
+STR_CARGO_UNIT_CHEM				:{VOLUME} of chemicals
+STR_CID_CHEM					:{TINYFONT}CH
+
+STR_CARGO_NAME_LUMB				:Xeno-Flora Lumber
+STR_CARGO_UNIT_LUMB				:{WEIGHT} of xeno-flora lumber
+STR_CID_LUMB					:{TINYFONT}XF
+
+STR_CARGO_NAME_HYCH				:Hydro-Chemical Slurry
+STR_CARGO_UNIT_HYCH				:{VOLUME} of hydro-chemical slurry
+STR_CID_HYCH					:{TINYFONT}HC
+
+STR_CARGO_NAME_WOOD				:Xeno-Wood
+STR_CARGO_UNIT_WOOD				:{WEIGHT} of xeno-wood
+STR_CID_WOOD					:{TINYFONT}WD
+
+STR_CARGO_NAME_DEUT				:Deuterium
+STR_CARGO_UNIT_DEUT				:{VOLUME} of deuterium
+STR_CID_DEUT					:{TINYFONT}DE
+
+STR_CARGO_NAME_PLST				:Bio-Plastic
+STR_CARGO_UNIT_PLST				:{WEIGHT} of bio-plastic
+STR_CID_PLST					:{TINYFONT}PL
+
+##### Industries #####
+
+STR_IND_NAME_HF					:Hydroponic Farm
+STR_IND_STATION_HF				:{STRING} Farm
+
+STR_IND_NAME_FR					:Fusion Reactor
+STR_IND_STATION_FR				:{STRING} Reactor
+
+STR_IND_NAME_XA					:Xeno-Flora Arboretum
+STR_IND_STATION_XA				:{STRING} Arboretum
+
+STR_IND_NAME_CL					:Colony Landing Pod
+STR_IND_STATION_CL				:{STRING} Landing
+
+STR_IND_NAME_CK					:Diato-Ceramic Kiln
+STR_IND_STATION_CK				:{STRING} Kiln
+
+STR_IND_NAME_AM	 				:Automated Manufactory
+STR_IND_STATION_AM				:{STRING} Manufactory
+
+STR_IND_NAME_HD					:Hydro-Chemical Drilling Wells
+STR_IND_STATION_HD				:{STRING} Wells
+
+STR_IND_NAME_HR					:Hydro-Chemical Refinery
+STR_IND_STATION_HR				:{STRING} Refinery
+
+STR_IND_NAME_XP			 		:Xeno-Flora Processing Yard
+STR_IND_STATION_XP				:{STRING} Xeno-Flora Yard
+
+STR_IND_NAME_BE			 		:Bio-Plastic Extractor
+STR_IND_STATION_BE				:{STRING} Extractor
+
+STR_IND_NAME_DS					:Diatomaceous Soil Mine
+STR_IND_STATION_DS				:{STRING} Mines
+
+##### Vehicles #####
+
+# Transport Manufacturers
+#	Mars Colony Administration (MCA) - colonial government, responsible for all resources in the early years
+#	Martian Industries (M.I.)
+#	Olympus Mons Engineering
+#	Colonial Transit Authority (CTA) - semi-public manufacturer that grew out of the initial MCA engineering department
+
+# Train Engines
+STR_TRAIN_NAME_0				:MCA Makeshift Rail Tractor (Steam)
+STR_TRAIN_NAME_2				:M.I. RE-1 "Primus" (Steam)
+STR_TRAIN_NAME_3				:Olympus Alpha (Steam)
+STR_TRAIN_NAME_4				:M.I. RE-2 "Secundus" (Steam)
+STR_TRAIN_NAME_5				:Olympus Beta (Hydrogen Combustion)
+STR_TRAIN_NAME_6				:M.I. RE-3 "Tertius" (Hydrogen Combustion)
+STR_TRAIN_NAME_7				:CTA MCT mk1 (Electric)
+STR_TRAIN_NAME_8				:CTA MCT mk2 (Electric)
+STR_TRAIN_NAME_9				:Olympus Gamma (Hydrogen Combustion)
+STR_TRAIN_NAME_10				:Olympus Delta (Electric)
+STR_TRAIN_NAME_11				:M.I. RE-4 "Quartus" (Electric)
+STR_TRAIN_NAME_12				:CTA MR-1 (Monorail)
+STR_TRAIN_NAME_13				:CTA ML-1 (Maglev)
+
+STR_TRAIN_NAME_PASSENGER_1		:Passenger Car
+STR_TRAIN_NAME_HOPPER_1			:Ore Hopper
+STR_TRAIN_NAME_HOPPER_2			:Hydroponic Food Hopper
+STR_TRAIN_NAME_HOPPER_3			:bio plastic - need to change this
+STR_TRAIN_NAME_TANKER_1			:Oxygen Tanker
+STR_TRAIN_NAME_TANKER_2			:Plastic Tanker
+STR_TRAIN_NAME_VAN_1			:Mail Van
+STR_TRAIN_NAME_VAN_2			:Hazardous Materials Van
+STR_TRAIN_NAME_VAN_3			:Chemical Van
+STR_TRAIN_NAME_VAN_4			:Colony Supplies Van
+STR_TRAIN_NAME_FLAT_1			:Alloy Truck
+STR_TRAIN_NAME_FLAT_2			:Wood Truck
